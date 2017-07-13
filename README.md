@@ -8,7 +8,7 @@ Contains basic vector functions such as:
  - div() — scale the vector with division
  - mag() — calculate the magnitude of a vector
  - setMag() - set the magnitude of a vector
- - normalize() — normalize the vector to a unit length of 1
+ - normalise() — normalize the vector to a unit length of 1
  - limit() — limit the magnitude of a vector
  - heading() — the 2D heading of a vector expressed as an angle
  - rotate() — rotate a 2D vector by an angle
